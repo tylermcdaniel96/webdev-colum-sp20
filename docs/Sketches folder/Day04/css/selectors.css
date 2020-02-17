@@ -1,0 +1,37 @@
+h1 {
+    color: darkolivegreen;
+    background-color: orange;
+    font-size: 3em;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 3px solid brown;
+    text-align: center;
+    font-size: 2em;
+    margin: 10px;
+    background-color: green;
+}
+
+p {
+    color:blue;
+}
+
+#home-title {
+    text-align: center;
+}
+
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.underline > p {
+    color:red ;
+}
